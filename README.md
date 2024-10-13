@@ -1,4 +1,4 @@
- # README: Cooperative Multitasking Operating System
+ # Cooperative Multitasking Operating System
 
 ## Overview
 
