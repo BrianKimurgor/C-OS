@@ -97,7 +97,9 @@ char putchar(char character);
  * @param string The string to display.
  * @return The number of characters printed.
  */
-int printf(char string[]);
+// int printf(char string[]);
+int kprintf(const char *format, ...);  // Add this for formatted printing
+
 
 /**
  * @brief Outputs an integer value to the screen.
